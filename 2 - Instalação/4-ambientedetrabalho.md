@@ -1,4 +1,4 @@
-2. 2. 
+# Verificando se está tudo ok
 
 Verificar se esta tudo certo
 git --version
