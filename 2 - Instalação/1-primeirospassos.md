@@ -1,4 +1,4 @@
-2. 1. 
+2. 1. Instalação do Git e do Github
 
 # Instalando o [Git](https://gitforwindows.org/)
 
